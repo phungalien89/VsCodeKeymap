@@ -241,7 +241,7 @@ Ctrl+Shift+O
 
 ## Official List of all commands
 
-```bash
-https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
-https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf
-```
+
+[Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
+[Mac](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
+
