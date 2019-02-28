@@ -4,6 +4,11 @@
 
 - For mac, replace "Ctrl" with "cmd" and "Alt" with "option"
 
+## Official List of all commands
+
+* [Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
+* [Mac](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
+
 ## General & File
 
 Open Command Pallete
@@ -238,10 +243,4 @@ Go to Symbol
 ```bash
 Ctrl+Shift+O
 ```
-
-## Official List of all commands
-
-
-[Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
-[Mac](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
 
