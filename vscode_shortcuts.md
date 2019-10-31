@@ -17,6 +17,25 @@ Open Command Pallete
 Ctrl+Shift+P
 ```
 
+Toggle Sidebar
+
+```bash
+Ctrl+B
+```
+
+Toggle Sidebar Focus
+
+```bash
+Ctrl+Shift+E
+```
+
+Integrated Terminal
+
+```bash
+Ctrl+` # Toggle terminal
+Ctrl+Shift+` # Create new terminal
+```
+
 Open New Window
 
 ```bash
@@ -80,6 +99,11 @@ Ctrl+Tab # Scroll next
 Ctrl+Shift+Tab # Scroll prev
 ```
 
+Delete File
+```
+Ctrl + Delete
+```
+
 Zoom
 
 ```bash
@@ -87,29 +111,10 @@ Ctrl++ # Zoom in
 Ctrl+- # Zoom out
 ```
 
-Toggle Sidebar
-
-```bash
-Ctrl+B
-```
-
-Toggle Sidebar Focus
-
-```bash
-Ctrl+Shift+E
-```
-
 Spilt Editor
 
 ```bash
 Ctrl+\
-```
-
-Integrated Terminal
-
-```bash
-Ctrl+` # Toggle terminal
-Ctrl+Shift+` # Create new terminal
 ```
 
 ## Code Editing
