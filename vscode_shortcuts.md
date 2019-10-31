@@ -156,8 +156,8 @@ end
 Go To Start & End Of File
 
 ```bash
-Cmd+Home
-Cmd+End
+Cmd+Up
+Cmd+Down
 
 Ctrl+Home
 Ctrl+End
