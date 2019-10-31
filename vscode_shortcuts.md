@@ -14,99 +14,119 @@
 Open Command Pallete
 
 ```bash
-Ctrl+Shift+P
+Shift+Cmd+P
+Shift+Ctrl+P
 ```
 
 Toggle Sidebar
 
 ```bash
+Cmd+B 
 Ctrl+B
 ```
 
 Toggle Sidebar Focus
 
 ```bash
-Ctrl+Shift+E
+Shift+Cmd+E
+Shift+Ctrl+E
 ```
 
-Integrated Terminal
+Toggle Terminal
 
 ```bash
-Ctrl+` # Toggle terminal
-Ctrl+Shift+` # Create new terminal
+Ctrl+`
+Ctrl+`
 ```
 
-Open New Window
+Create New Terminal
+```
+Shift+Cmd+`
+Shift+Ctrl+`
+```
+
+Open New Window/Instance
 
 ```bash
-Ctrl+Shift+N
+Shift+Cmd+N 
+Shift+Ctrl+N
 ```
 
 Close Window
 
 ```bash
+Cmd+W 
 Ctrl+W
 ```
 
 Quick File Open
 
 ```bash
+Cmd+P
 Ctrl+P
 ```
 
 Access Settings
 
 ```bash
+Cmd+,
 Ctrl+,
 ```
 
 New File
 
 ```bash
+Cmd+N
 Ctrl+N
 ```
 
 Open File
 
 ```bash
+Cmd+O
 Ctrl+O
 ```
 
 Save
 
 ```bash
+Cmd+S
 Ctrl+S
-Ctrl+Shift+S # Save As
+```
+
+Save As
+
+```bash
+Shift+Cmd+S
+Shift+Ctrl+S
 ```
 
 Close File
 
 ```bash
-Ctrl+F4
+Cmd+W
+Ctrl+W
 ```
 
 Change File Tabs
 
 ```bash
+Ctrl+Tab 
 Ctrl+PageUP
-Ctrl+PageDown
-```
-
-Open Next File (Dropdown)
-
-```bash
-Ctrl+Tab # Scroll next
-Ctrl+Shift+Tab # Scroll prev
 ```
 
 Delete File
 ```
-Ctrl + Delete
+Cmd+Delete
+Ctrl+Delete
 ```
 
 Zoom
 
 ```bash
+Cmd++ # Zoom in
+Cmd+- # Zoom out
+
 Ctrl++ # Zoom in
 Ctrl+- # Zoom out
 ```
@@ -114,6 +134,7 @@ Ctrl+- # Zoom out
 Spilt Editor
 
 ```bash
+Cmd+\
 Ctrl+\
 ```
 
@@ -129,6 +150,9 @@ end
 Go To Start & End Of File
 
 ```bash
+Cmd+Home
+Cmd+End
+
 Ctrl+Home
 Ctrl+End
 ```
@@ -136,6 +160,10 @@ Ctrl+End
 Cut, Copy & Past Line
 
 ```bash
+Cmd+X #Cut
+Cmd+C #Copy
+Cmd+V #Paste
+
 Ctrl+X # Cut
 Ctrl+C # Copy
 Ctrl+V # Paste
@@ -144,6 +172,9 @@ Ctrl+V # Paste
 Move Line Up & Down
 
 ```bash
+Option+Up
+Option+Down
+
 Alt+Up
 Alt+Down
 ```
@@ -151,6 +182,9 @@ Alt+Down
 Copy Line Up & Down
 
 ```bash
+Shift+Option+Up
+Shift+Option+Down
+
 Shift+Alt+Up
 Shift+Alt+Down
 ```
@@ -158,44 +192,47 @@ Shift+Alt+Down
 Remove Line
 
 ```bash
-Ctrl+Shift+K
+ShiftCmd+K
+Shift+Ctrl+K
 ```
 
 Insert Line
 
 ```bash
-Ctrl+Enter # Insert above
-Ctrl+Shift+Enter # Insert below
+Cmd+Enter # Insert below
+Shift+Cmd+Enter # Insert above
+
+Ctrl+Enter # Insert below
+Shift+Ctrl+Enter # Insert above
 ```
 
 Jump To Matching Bracket
 
 ```bash
-Ctrl+Shift+\
-```
-
-Fold Brackets
-
-```bash
-Ctrl+[
-Ctrl+]
+Shift+Cmd+\
+Shift+Ctrl+\
 ```
 
 Add Line Comment
 
 ```bash
+Cmd+/
 Ctrl+/
 ```
 
 Add Block Comment
 
 ```bash
+Shift+Option+A
 Shift+Alt+A
 ```
 
 Scroll Up & Down
 
 ```bash
+Cmd+Up
+Cmd+Down
+
 Ctrl+Up
 Ctrl+Down
 ```
@@ -203,6 +240,9 @@ Ctrl+Down
 Move By Word
 
 ```bash
+Cmd+Right
+Cmd+Left
+
 Ctrl+Right
 Ctrl+Left
 ```
@@ -213,39 +253,24 @@ Highlight Code
 Shift+Any Direction
 ```
 
-Go To Next Match
-
-```bash
-F3
-```
-
 Select Next Match
 
 ```bash
+Cmd+D
 Ctrl+D
-```
-
-Select All Matches & Add Cursor
-
-```bash
-Ctrl+F2
-```
-
-Select All Matches from Find
-
-```bash
-Alt+Enter
 ```
 
 Add Cursor
 
 ```bash
+Option+Click
 Alt+Click
 ```
 
-Go to Symbol
+Go to Entity (Functions, vars, etc)
 
 ```bash
+Cmd+Shift+O
 Ctrl+Shift+O
 ```
 
