@@ -127,6 +127,12 @@ Cmd+Delete
 Ctrl+Delete
 ```
 
+Reopen Files
+```
+Shift+Cmd+T
+Shift+Ctrl+T
+```
+
 Zoom
 
 ```bash
