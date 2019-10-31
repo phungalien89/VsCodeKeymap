@@ -149,8 +149,24 @@ Ctrl+\
 Go To Start & End Of Line
 
 ```bash
+Cmd+Right
+Cmd+Left
+
+Ctrl+Right
+Ctrl+Left
+
 home
 end
+```
+
+Move By Word
+
+```bash
+Cmd+Right
+Cmd+Left
+
+Ctrl+Right
+Ctrl+Left
 ```
 
 Go To Start & End Of File
@@ -231,26 +247,6 @@ Add Block Comment
 ```bash
 Shift+Option+A
 Shift+Alt+A
-```
-
-Scroll Up & Down
-
-```bash
-Cmd+Up
-Cmd+Down
-
-Ctrl+Up
-Ctrl+Down
-```
-
-Move By Word
-
-```bash
-Cmd+Right
-Cmd+Left
-
-Ctrl+Right
-Ctrl+Left
 ```
 
 Highlight Code
