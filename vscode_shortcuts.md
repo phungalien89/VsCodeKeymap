@@ -7,7 +7,7 @@
 * [Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 * [Mac](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
 
-## General & File
+## Open/View
 
 Open Command Pallete
 
@@ -16,18 +16,11 @@ Shift+Cmd+P
 Shift+Ctrl+P
 ```
 
-Toggle Sidebar
+Access Settings
 
 ```bash
-Cmd+B 
-Ctrl+B
-```
-
-Toggle Sidebar Focus
-
-```bash
-Shift+Cmd+E
-Shift+Ctrl+E
+Cmd+,
+Ctrl+,
 ```
 
 Toggle Terminal
@@ -41,6 +34,13 @@ Create New Terminal
 ```
 Shift+Cmd+`
 Shift+Ctrl+`
+```
+
+Toggle Sidebar
+
+```bash
+Cmd+B 
+Ctrl+B
 ```
 
 Open New Window/Instance
@@ -57,6 +57,21 @@ Cmd+W
 Ctrl+W
 ```
 
+## Working With Files
+
+Sidebar Focus
+
+```bash
+Shift+Cmd+E
+Shift+Ctrl+E
+```
+
+Open File/Folder From Sidebar
+```
+Cmd+Down
+Ctrl+Down
+```
+
 Quick File Open
 
 ```bash
@@ -64,11 +79,11 @@ Cmd+P
 Ctrl+P
 ```
 
-Access Settings
+Open File From Explorer
 
 ```bash
-Cmd+,
-Ctrl+,
+Cmd+O
+Ctrl+O
 ```
 
 New File
@@ -76,13 +91,6 @@ New File
 ```bash
 Cmd+N
 Ctrl+N
-```
-
-Open File
-
-```bash
-Cmd+O
-Ctrl+O
 ```
 
 Save
