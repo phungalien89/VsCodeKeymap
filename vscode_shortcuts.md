@@ -72,6 +72,13 @@ Cmd+Down
 Ctrl+Down
 ```
 
+Change File Tabs
+
+```bash
+Ctrl+Tab 
+Ctrl+PageUP
+```
+
 Quick File Open
 
 ```bash
@@ -112,13 +119,6 @@ Close File
 ```bash
 Cmd+W
 Ctrl+W
-```
-
-Change File Tabs
-
-```bash
-Ctrl+Tab 
-Ctrl+PageUP
 ```
 
 Delete File
