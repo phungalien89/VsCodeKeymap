@@ -2,8 +2,6 @@
 
 > List of helpful shortcuts for faster coding
 
-- For mac, replace "Ctrl" with "cmd" and "Alt" with "option"
-
 ## Official List of all commands
 
 * [Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
