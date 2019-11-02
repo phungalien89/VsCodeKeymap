@@ -2,6 +2,8 @@
 
 > List of helpful shortcuts for faster coding
 
+If you have any other helpful shortcuts, feel free to add in the comments of this gist :)
+
 ## Official List of all commands
 
 * [Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
@@ -32,7 +34,7 @@ Ctrl+`
 
 Create New Terminal
 ```
-Shift+Cmd+`
+Shift+Ctrl+`
 Shift+Ctrl+`
 ```
 
@@ -168,11 +170,11 @@ end
 Move By Word
 
 ```bash
-Cmd+Right
-Cmd+Left
+Option+Right
+Option+Left
 
-Ctrl+Right
-Ctrl+Left
+Alt+Right
+Alt+Left
 ```
 
 Go To Start & End Of File
