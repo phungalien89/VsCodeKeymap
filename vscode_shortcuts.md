@@ -270,6 +270,13 @@ Cmd+D
 Ctrl+D
 ```
 
+De-select Match
+
+```bash
+Cmd+U
+Ctrl+U
+```
+
 Add Cursor
 
 ```bash
